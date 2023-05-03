@@ -9,7 +9,7 @@ I have experience with software test automation, unit testing, I interned as QA 
 
 I am also a student from Fortaleza, CE I am studying Faculdade de Sistemas de Informação UNIS MG
 
-* 🌍  I'm based in Fortaleza,CE Brazil
+* 🌍  I live in Fortaleza, CE Brazil
 * ✉️  You can contact me at [cleytonvirino@gmail.com](mailto:cleytonvirino@gmail.com)
 
 * 🧠  I'm learning  Java, Unit Tests and python programming languages
