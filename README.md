@@ -4,7 +4,7 @@ Hi 👋 My name is Cleyton A.
 Analist Software IA QA
 -----------------------------
 
-I'm a 38 years old Developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are back-end development, makingapplications that impact the life of thousands of users.
+I'm a 39 years old Developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are back-end development, makingapplications that impact the life of thousands of users.
 I have experience with software test automation, unit testing, I interned as QA assure.
 
 I am also a student from Fortaleza, CE I am studying Faculdade de Sistemas de Informação UNIS MG
