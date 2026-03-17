@@ -7,7 +7,7 @@ Analist Software IA QA
 I'm a 39 years old Developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are back-end development, makingapplications that impact the life of thousands of users.
 I have experience with software test automation, unit testing, I interned as QA assure.
 
-I am also a student from Fortaleza, CE I am studying Faculdade de Sistemas de Informação UNIS MG
+graduated in information systems from UNIS college
 
 * 🌍  I live in Fortaleza, CE Brazil
 * ✉️  You can contact me at [cleytonvirino@gmail.com](mailto:cleytonvirino@gmail.com)
